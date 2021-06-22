@@ -41,8 +41,6 @@
 
 [![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=srijan9864&show_icons=true&count_private=true)](https://github.com/srijan9864)
 
----
-
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srijan9864)](https://github.com/srijan9864)
 
 
