@@ -40,7 +40,7 @@
 
 ---
 
-[![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/srijan9864/github-readme-stats)
+[![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=srijan9864)](https://github.com/srijan9864/github-readme-stats)
 
 
 [website]: https://www.linkedin.com/in/srijan9864/
