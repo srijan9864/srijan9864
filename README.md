@@ -11,9 +11,9 @@
 - ⚡ Favourite Framework now--> SAP UI5
 
 
-
-### Connect with me:
 ---
+### Connect with me:
+
 [<img align="left" alt="facebook.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"  />][facebook]
 [<img align="left" alt="srijan9864 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="srijan9864 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -22,8 +22,9 @@
 
 <br />
 
-### Languages and Tools:
 ---
+### Languages and Tools:
+
 <img align="left" alt="SAP" width="26px" src="/images/sap.png" />
 <img align="left" alt="UI5" width="26px" src="/images/ui5.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
