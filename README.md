@@ -11,7 +11,7 @@
 - ⚡ Favourite Framework now--> SAP UI5
 
 
----
+
 ### Connect with me:
 
 [<img align="left" alt="facebook.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"  />][facebook]
@@ -22,7 +22,6 @@
 
 <br />
 
----
 ### Languages and Tools:
 
 <img align="left" alt="SAP" width="26px" src="/images/sap.png" />
