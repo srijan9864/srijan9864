@@ -14,10 +14,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="facebook.com" width="22px" src="http://i.imgur.com/tXSoThF.png" />][facebook]
+[<img align="left" alt="facebook.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"  />][facebook]
 [<img align="left" alt="srijan9864 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="srijan9864 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="srijan9864 | LinkedIn" width="22px" src="https://imgur.com/gallery/Vahbdkj"/>][linkedin]
+[<img align="left" alt="srijan9864 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="srijan9864 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
