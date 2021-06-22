@@ -40,7 +40,7 @@
 
 ---
 
-  <img align="left" alt="srijan9864's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+[![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/srijan9864/github-readme-stats)
 
 
 [website]: https://www.linkedin.com/in/srijan9864/
