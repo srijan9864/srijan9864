@@ -11,7 +11,7 @@
 - ⚡ Favourite Framework now--> SAP UI5
 
 
-
+---
 ### Connect with me:
 
 [<img align="left" alt="facebook.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"  />][facebook]
@@ -21,7 +21,7 @@
 [<img align="left" alt="srijan9864 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+---
 ### Languages and Tools:
 
 
@@ -40,8 +40,11 @@
 
 ---
 
-[![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=srijan9864&show_icons=true&count_private=true)](https://github.com/srijan9864/github-readme-stats)
+[![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=srijan9864&show_icons=true&count_private=true)](https://github.com/srijan9864)
 
+---
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srijan9864&langs_count=8)](https://github.com/srijan9864)
 
 
 [website]: https://www.linkedin.com/in/srijan9864/
