@@ -41,10 +41,10 @@
 
 [website]: https://www.linkedin.com/in/srijan9864/
 [latestrepo]: https://github.com/srijan9864/zrfcread
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[youtube]: https://facebook.com/srijan9864
-[instagram]: https://instagram.com/codeSTACKr
+[twitter]: https://twitter.com/srijan9864
+[youtube]: https://youtube.com/srijan9864
+[facebook]: https://facebook.com/srijan9864
+[instagram]: https://instagram.com/srijan9864
 [linkedin]: https://www.linkedin.com/in/srijan9864/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
