@@ -1,6 +1,6 @@
 ### Hi there, I'm Srijan - aka [srijan9864][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=srijan9864)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsrijan9864&screen_name=srijan9864)
 
 ## I'm a Learner, Developer, and Technology Enthusiast!!
 
